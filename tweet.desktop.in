@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Tweet
+Comment=Tweet application
+Categories=GNOME;Utility;
+Exec=tweet
+Icon=tweet
+Terminal=false
+Type=Application
